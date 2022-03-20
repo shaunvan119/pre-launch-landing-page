@@ -92,4 +92,60 @@ body {
     top: 282px;
 }
 
+.boximage1 {
+    position: absolute;
+    width: 160px;
+    height: 164px;
+    left: 165px;
+    top: 891px;
+
+    background: #093F68;
+    border-radius: 45px;
+}
+
+.boximage1 img {
+    position: absolute;
+    top: 29px;
+    left: 40px;
+}
+
+.boximage2 {
+position: absolute;
+width: 160px;
+height: 164px;
+left: 450px;
+top: 939px;
+
+background: #093F68;
+border-radius: 45px;
+
+}
+
+.boximage2 img {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.boximage3 {
+    position: absolute;
+    width: 160px;
+    height: 164px;
+    left: 735px;
+    top: 891px;
+
+    background: #093F68;
+    border-radius: 45px;
+}
+
+.boximage4 {
+    position: absolute;
+    width: 160px;
+    height: 164px;
+    left: 1020px;
+    top: 939px;
+
+    background: #093F68;
+    border-radius: 45px;
+}
 
