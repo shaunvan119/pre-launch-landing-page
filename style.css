@@ -1,8 +1,11 @@
 
 
 body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
     background: 000000;
-    background-color: rgb(27, 24, 24);
+    background-color: rgb(17, 16, 16);
 }
 
 .logo-text {
@@ -69,5 +72,24 @@ body {
     border-radius: 0px;
     
     mix-blend-mode: normal;
-    opacity: 0.25;
+    opacity: 0.50;
 }
+
+.image-left {
+  position: absolute;
+  width: 408px;
+  height: 459px;
+  left: -56px;
+  top: 274px;
+
+}
+
+.image-right {
+    position: absolute;
+    width: 396px;
+    height: 444px;
+    left: 1101px;
+    top: 282px;
+}
+
+
