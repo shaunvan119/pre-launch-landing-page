@@ -103,6 +103,36 @@ body {
     border-radius: 45px;
 }
 
+.boximage1 h3 {
+    position: absolute;
+    height: 25px;
+    left: 0%;
+    right: 23.92%;
+    top: 180px;
+    color: #ffffff;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.boximage1 p {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 150.0%;
+    bottom: 0%;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+   color: rgba(119, 127, 152, 1);
+}
+
 .boximage1 img {
     position: absolute;
     top: 29px;
@@ -127,6 +157,36 @@ border-radius: 45px;
     left: 40px;
 }
 
+.boximage2 h3 {
+    position: absolute;
+    height: 25px;
+    left: 0%;
+    right: 23.92%;
+    top: 180px;
+    color: #ffffff;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.boximage2 p {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 150.0%;
+    bottom: 0%;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: rgba(119, 127, 152, 1);
+}
+
 .boximage3 {
     position: absolute;
     width: 160px;
@@ -136,6 +196,42 @@ border-radius: 45px;
 
     background: #093F68;
     border-radius: 45px;
+}
+
+.boximage3 img {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.boximage3 h3 {
+    position: absolute;
+    height: 25px;
+    left: 0%;
+    right: 23.92%;
+    top: 180px;
+    color: #ffffff;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.boximage3 p {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 150.0%;
+    bottom: 0%;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: rgba(119, 127, 152, 1);
 }
 
 .boximage4 {
@@ -148,4 +244,114 @@ border-radius: 45px;
     background: #093F68;
     border-radius: 45px;
 }
+
+.boximage4 img {
+    position: absolute;
+    top: 40px;
+    left: 32px;
+}
+
+.boximage4 h3 {
+    position: absolute;
+    height: 25px;
+    left: 0%;
+    right: 23.92%;
+    top: 180px;
+    color: #ffffff;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.boximage4 p {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 150.0%;
+    bottom: 0%;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: rgba(119, 127, 152, 1);
+}
+
+.rectangle1 {
+    position: relative;
+    height: 425px;
+    width: 445px;
+    left: 260px;
+    top: 1388px;
+    background: #093F68;
+    border-radius: 8px
+}
+
+.price-heading h1 {
+    position: absolute;
+    top: 1476px;
+    left: 586px;
+    font-family: Manrope;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 44px;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.price-heading p {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(119, 127, 152, 1);
+
+    width: 540px;
+    top: 1544px;
+    left: 450px;
+    
+    border-radius: nullpx;
+
+}
+
+.rectangle2 {
+    position: relative;
+    height: 445px;
+    width: 449px;
+    left: 735px;
+    top: 955px;
+    border-radius: 8px;
+    border-radius: 8px;
+    background: rgba(62, 233, 229, 1);
+}
+
+.contact-us {
+    position: absolute;
+    width: 730px;
+    height: 44px;
+    left: 359px;
+    top: 2351px;
+    font-family: Manrope;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.email-section {
+    position: relative;
+    top: 1220px;
+    left: 630px;
+}
+
+
 
