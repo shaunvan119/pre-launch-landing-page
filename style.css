@@ -350,8 +350,113 @@ border-radius: 45px;
 .email-section {
     position: relative;
     top: 1220px;
-    left: 630px;
+    left: 482px;
+    color: white;
+    
 }
 
+.email {
+    background: rgba(9, 63, 104, 1);
+    height: 48px;
+    width: 320px;
+    border-radius: 24px;
+    color: white;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    border: none;
+    
+
+}
+
+
+
+.email:hover {
+border: 1px solid rgba(62, 233, 229, 1);
+}
+
+.submit-text {
+   color: rgba(9, 63, 104, 1);
+   font-family: Manrope;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: 25px;
+   letter-spacing: 0px;
+   text-align: center;
+}
+
+
+
+.submit-email {
+    height: 48px;
+    width: 140px;
+    height: 48px;
+    width: 140px;
+    left: nullpx;
+    top: nullpx;
+    border-radius: 24px;
+    background: rgba(62, 233, 229, 1);
+    border-radius: 24px;
+    color: rgba(9, 63, 104, 1);
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    border: none;
+}
+
+::placeholder {
+    position: absolute;
+    height: 25px;
+    left: 5.62%;
+    right: 62.19%;
+    top: calc(50% - 25px/2 + 0.5px);
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+}
+
+.submit-email:hover
+ {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    border: 1px solid rgba(62, 233, 229, 1);
+}
+
+.empty-email-message {
+    position: absolute;
+    height: 25px;
+    width: 251px;
+    left: 20px;
+    top: 52px;
+    border-radius: nullpx;
+
+
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FF2965;
+
+
+}
+ 
 
 

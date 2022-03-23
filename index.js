@@ -2,6 +2,13 @@ const email = document.querySelector('.email');
 const form = document.querySelector('.form');
 const emailMessage = document.querySelector('.empty-email-message');
 const errorEmail = document.querySelector('.invalid-email-message');
+const emailColorChange = document.getElementById("color-change")
+let color = "red"
+
+function myFunctionColor() {
+    emailColorChange.textContent = emailColorChange
+}
+
 
 form.addEventListener('submit', e => {
     if(email.value){
@@ -15,7 +22,8 @@ form.addEventListener('submit', e => {
         }
     } else {
       e.preventDefault();
-      emailMessage.textContent = 'You must type in an email';
+      emailMessage.textContent = 'Oops! That doesn’t look like an email address';
       errorEmail.textContent = "";
+      
     }
 });
