@@ -18,6 +18,7 @@ body {
     padding-top: 345px;
 }
 
+
 .work-you-love h1 {
     position: absolute;
     color: white;
@@ -355,6 +356,8 @@ border-radius: 45px;
     
 }
 
+
+
 .email {
     background: rgba(9, 63, 104, 1);
     height: 48px;
@@ -362,6 +365,7 @@ border-radius: 45px;
     border-radius: 24px;
     color: white;
     font-family: Manrope;
+    text-align: center;
     font-size: 15px;
     font-style: normal;
     font-weight: 800;
@@ -377,6 +381,7 @@ border-radius: 45px;
 
 .email:hover {
 border: 1px solid rgba(62, 233, 229, 1);
+
 }
 
 .submit-text {
