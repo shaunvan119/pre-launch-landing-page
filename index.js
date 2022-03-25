@@ -3,6 +3,7 @@ const form = document.querySelector('.form');
 const emailMessage = document.querySelector('.empty-email-message');
 const errorEmail = document.querySelector('.invalid-email-message');
 const emailColorChange = document.getElementById("color-change")
+
 let color = "red"
 
 function myFunctionColor() {

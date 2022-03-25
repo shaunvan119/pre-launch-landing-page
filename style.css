@@ -289,7 +289,73 @@ border-radius: 45px;
     left: 260px;
     top: 1388px;
     background: #093F68;
-    border-radius: 8px
+    border-radius: 8px;
+    
+}
+
+.rectangle1 h3 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+    right: 67.42%;
+    top: 30px;
+    color: #FFFFFF;
+    
+}
+
+.rectangle1 p {
+    position: absolute;
+    top: 20%;
+    left: 38px;
+    bottom: 0%;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #777F98;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(119, 127, 152, 1);
+}
+
+.rectangle1 h1 {
+    position: absolute;
+    left: 38px;
+    right: 1.15%;
+    top: 150px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+ul {
+    position: absolute;
+    top: 241px;
+    list-style: none;
+    color: #FFFFFF;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+ul li:before {
+    content: '✓';
+    color: #3EE9E5;
+    
 }
 
 .price-heading h1 {
@@ -459,7 +525,6 @@ border: 1px solid rgba(62, 233, 229, 1);
     letter-spacing: 0px;
     text-align: left;
     color: #FF2965;
-
 
 }
  
