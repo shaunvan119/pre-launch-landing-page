@@ -6,7 +6,10 @@ body {
     margin: 0;
     background: 000000;
     background-color: rgb(17, 16, 16);
+    
 }
+
+
 
 .logo-text {
     position: absolute;
@@ -99,7 +102,6 @@ body {
     height: 164px;
     left: 165px;
     top: 891px;
-
     background: #093F68;
     border-radius: 45px;
 }
@@ -138,6 +140,7 @@ body {
     position: absolute;
     top: 29px;
     left: 40px;
+    
 }
 
 .boximage2 {
@@ -603,6 +606,5 @@ border: 1px solid rgba(62, 233, 229, 1);
     color: #FF2965;
 
 }
- 
 
 
